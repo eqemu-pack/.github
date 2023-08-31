@@ -6,6 +6,8 @@ This shrinks the download for initial installs if you only plan to use certain e
 
 It also includes version files so tools can look at them to check if their local files are up to date or not.
 
+|ID|Name|Year|Level|
+|---|---|---|---|
 |0|[Classic](https://github.com/eqemu-pack/classic)|1999|50|
 |1|[The Ruins of Kunark](https://github.com/eqemu-pack/kunark)|2000|60|
 |2|[The Scars of Velious](https://github.com/eqemu-pack/velious)|2000|60|
